@@ -6,11 +6,13 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/HabibaMohamed225/test4/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/HabibaMohamed225/test4/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/HabibaMohamed225/test4/tree/master/0204-count-primes) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/HabibaMohamed225/test4/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/HabibaMohamed225/test4/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/HabibaMohamed225/test4/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -32,4 +34,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HabibaMohamed225/test4/tree/master/0053-maximum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HabibaMohamed225/test4/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HabibaMohamed225/test4/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
