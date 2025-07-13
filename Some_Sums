@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+int sumOfDigits(int number) {
+    int sum = 0;
+    while (number > 0) {
+        sum += number % 10;
+        number /= 10;
+    }
+    return sum;
+}
+int main() {
+    int n, a, b;
+    cin>>n>>a>>b;
+    int total = 0;
+    for (int i = 1; i <= n; i++) {
+        int digitSum = sumOfDigits(i);
+        if (digitSum >= a && digitSum <= b) {
+            total += i;
+        }
+    }
+    cout<<total<<endl;
+    return 0;
+}
